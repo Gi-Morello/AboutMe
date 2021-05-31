@@ -1,5 +1,5 @@
 Hi! I’m Gi-Morello,
-I’m interested in becoming a full time software developer, I'm a recent graduate with a Bachelors in Computer Science and Information Systems.
+I’m currently in training to be a consultant software developer with Genesis10 as part of the Dev10 Program, I'm a recent graduate with a Bachelors in Computer Science and Information Systems.
 I’m currently working on improving my current skills I've learned from university while also taking time to do some projects with tools I've yet to learn.
 
 Currently I'm looking into learning more about Springboot as Java is my primary language of choice. I also want to do a project with React. 
